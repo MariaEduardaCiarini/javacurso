@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="enumeracoescomposicao/src/|heranca/src/|exercisept1pt2/src/|listas/src/|estaticos/src/|cursojava/src/|polimorfismo/src/|sobreposicao/src/|vetores/src/" kind="src" path=""/>
+	<classpathentry kind="src" path="cursojava/src"/>
+	<classpathentry kind="src" path="enumeracoescomposicao/src"/>
+	<classpathentry kind="src" path="estaticos/src"/>
+	<classpathentry kind="src" path="exercisept1pt2/src"/>
+	<classpathentry kind="src" path="heranca/src"/>
+	<classpathentry kind="src" path="listas/src"/>
+	<classpathentry kind="src" path="polimorfismo/src"/>
+	<classpathentry kind="src" path="sobreposicao/src"/>
+	<classpathentry kind="src" path="vetores/src"/>
+	<classpathentry kind="output" path="cursojava/bin"/>
+</classpath>
